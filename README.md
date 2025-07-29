@@ -251,3 +251,4 @@ Para suporte, envie um email para support@safeinsave.com ou abra uma issue no Gi
 ---
 
 **Desenvolvido com ❤️ pela equipe Safe in Save**
+# safe-in-save
